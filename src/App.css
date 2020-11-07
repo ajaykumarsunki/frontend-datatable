@@ -1,0 +1,38 @@
+body {
+  font-size: 16px;
+}
+
+.selection-count {
+  margin: 10px;
+  font-weight: 400;
+  font-size: 1.2rem;
+  color: green;
+}
+
+button {
+  width: 100%;
+  font-weight: bold;
+  border: none;
+  background-color: antiquewhite;
+  cursor: pointer;
+}
+
+.arrows {
+  float: right;
+}
+
+.th {
+  float: left;
+}
+
+tr > th {
+  border: 0 1px solid black;
+}
+
+thead {
+  background-color: antiquewhite;
+}
+
+.right-justify {
+  text-align: right;
+}
